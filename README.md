@@ -38,7 +38,7 @@
 
 - __**[실습조교]**__ 청운대학교 컴퓨터공학과 실습조교 (PC관리) : 2016. 06 ~ 2017. 06
 
-- __**[스터디프로그램 팀장 최우수상]**__ Cheerluv Team 스터디그룹 (앱 개발 최우수상) : 2017. 09 ~ 2017. 11
+- __**[스터디프로그램 팀장 최우수상]**__ Cheerluv Team 스터디그룹 (Android 근접센서를 이용한 앱 개발) : 2017. 09 ~ 2017. 11
 
 - __**[이수과목 팀장]**__ 캡스톤디자인 (Anroid 비콘통신기기를 이용한 방명록기능 개발) : 2017. 08 ~ 2017. 12
 
@@ -79,14 +79,16 @@
 - [GitHub](https://github.com/ChoiTeaHo/HomesulSSTest)
 - [시연 영상](https://www.youtube.com/watch?v=job04LuYll4)
 
+
 **Beaconluv - IOT 비콘기기를 통한 이벤트 APP (캡스톤디자인 )**
-- 기간 : 2019. 02. 11 ~ 2019. 02. 22 (총 1개월)
+- 기간 : 2017. 08. 27 ~ 2017. 12. 18 (총 3개월)
 - 내용 : Beacon 단말기에 접근시 SSID 거리값에 정도에 따라 이벤트발생, 
 - 역할 : 전체 개발
 - 적용 패턴 : 
 - 적용 기술 : estimote 
 - [GitHub](https://github.com/ChoiTeaHo/BeaconluvS)
- 
+
+
 **Croll - 웹사이트 크롤링 APP (공모전사이트 크롤링해보기)**
 - 기간 : 2018. 03. 01 ~ 2018. 03. 20 (총 19일)
 - 내용 : 특정공모전 사이트로부터 코드를 얻어와 리스트 형태로 보여주는 앱
@@ -94,6 +96,7 @@
 - 적용 패턴 : 
 - 적용 기술 : jsoup
 - [GitHub](https://github.com/ChoiTeaHo/CrollTestSS)
+
 
 **시네마 천국 - 영화 리뷰 앱 (부스트코스 Android 과정 에이스 1기)**
 - 기간 : 2018. 05. 04 ~ 2018. 09. 30 (총 5개월)
@@ -103,6 +106,7 @@
 - 적용 기술 : Volley, Glide, Pinch Zoom, Disk Cache
 - [시연 영상](https://www.youtube.com/watch?v=rZYCzcN7kNU&t=14s)
 - [우수 수료생으로 인한 인터뷰](https://post.naver.com/viewer/postView.nhn?volumeNo=17711560&memberNo=34635212)
+
 
 **봄 - 시각장애인을 위한 점자 학습**
 - 기간 : 2016. 08. 01 ~ 2018. 03. 24 (총 1년 8개월)
