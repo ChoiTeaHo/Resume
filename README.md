@@ -1,8 +1,9 @@
 # 이력서
 
 ## 소개
-<img src="https://drive.google.com/open?id=1HIqfRHrOdTQGBXoBhXehdg3S506ORiWn">
-<img src="https://user-images.githubusercontent.com/20294749/54071352-d2ce7800-42ae-11e9-8d11-c5b71cca520f.jpg" width="200px">
+
+<img src="https://user-images.githubusercontent.com/19817832/60497811-83de9f80-9cf0-11e9-8f1f-58b6df6da9c9.jpg width=200px">
+
 
 - 이름 : 윤찬혁    
 - 군필여부 : 병장 만기 재대    
