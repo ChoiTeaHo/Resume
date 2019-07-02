@@ -1,6 +1,7 @@
 # 이력서
 
 ## 소개
+![profile](https://user-images.githubusercontent.com/19817832/60497811-83de9f80-9cf0-11e9-8f1f-58b6df6da9c9.jpg)
 
 <img src="https://user-images.githubusercontent.com/19817832/60497811-83de9f80-9cf0-11e9-8f1f-58b6df6da9c9.jpg width=200px">
 
