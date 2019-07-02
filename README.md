@@ -79,13 +79,13 @@
 - [GitHub](https://github.com/ChoiTeaHo/HomesulSSTest)
 - [시연 영상](https://www.youtube.com/watch?v=job04LuYll4)
 
-**Beacon - IOT기기 APP (캡스톤디자인 )**
+**Beaconluv - IOT 비콘기기를 통한 이벤트 APP (캡스톤디자인 )**
 - 기간 : 2019. 02. 11 ~ 2019. 02. 22 (총 1개월)
 - 내용 : Beacon 단말기에 접근시 SSID 거리값에 정도에 따라 이벤트발생, 
 - 역할 : 전체 개발
 - 적용 패턴 : 
 - 적용 기술 : estimote 
-- [GitHub](https://github.com/ch-Yoon/Overlap_Loop_View)
+- [GitHub](https://github.com/ChoiTeaHo/BeaconluvS)
  
 **Croll - 웹사이트 크롤링 APP (공모전사이트 크롤링해보기)**
 - 기간 : 2018. 03. 01 ~ 2018. 03. 20 (총 19일)
@@ -93,7 +93,7 @@
 - 역할 : 전체 개발
 - 적용 패턴 : 
 - 적용 기술 : jsoup
-- [GitHub](https://github.com/ch-Yoon/movie_list_toy_project)
+- [GitHub](https://github.com/ChoiTeaHo/CrollTestSS)
 
 **시네마 천국 - 영화 리뷰 앱 (부스트코스 Android 과정 에이스 1기)**
 - 기간 : 2018. 05. 04 ~ 2018. 09. 30 (총 5개월)
