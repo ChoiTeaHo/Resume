@@ -104,8 +104,8 @@
 - 역할 : 프로젝트 전체 개발
 - 적용 패턴 : 
 - 적용 기술 : SQLite
-- [시연 영상](https://www.youtube.com/watch?v=rZYCzcN7kNU&t=14s)
 - [GitHub](https://github.com/ChoiTeaHo/AlarmMom)
+- [시연 영상](https://www.youtube.com/watch?v=rZYCzcN7kNU&t=14s)
 
 
 **채팅프로그램 - TCP/IP 소켓통신을 이용한 간단한 JAVA 프로그램 (개인활동)**
@@ -124,6 +124,7 @@
 - 역할 : 팀장 수행, 안드로이드 명령어 처리 구현, 약품 정보 저장, 검색, 삭제 기능 구현
 - 적용 패턴 : Observer pattern
 - 적용 기술 : SQLite, Google 내장 STT & TTS
+- [GitHub](https://github.com/ChoiTeaHo/SocketChat)
 - [시연 영상](https://youtu.be/fYPkvSM8sAY)
 
 ## 교육 이수 내역
