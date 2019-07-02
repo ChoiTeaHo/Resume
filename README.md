@@ -73,26 +73,26 @@
 **혼술집 -  근접센서기반 건배모션 APP (스터디그룹 및 공모전참가 개발)**
 - 기간 : 2017. 09. 18 ~ 2017. 11. 26  (총 2개월)
 - 내용 : 사용자가 근접센서에 접근시 애니메이션효과로 건배해주는 느낌을 받게하는 앱
-- 역할 : 프로젝트 뼈대 구성, 근접센서및 애니메이션처리 구현, Custom View 구현 및 오픈소스 등록, 메뉴 등록 구현, 다국어지원, 방명록뷰 구현
-- 적용 패턴 : MVP pattern, Observer pattern, Singleton pattern
-- 적용 기술 : 웹호스팅 JSON 연결
+- 역할 : 팀장, 프로젝트 뼈대 구성, 근접센서및 애니메이션처리 구현, Custom View 구현 및 오픈소스 등록, 메뉴 등록 구현, 다국어지원, 방명록뷰 구현
+- 적용 패턴 : 
+- 적용 기술 : 웹호스팅 JSON 연결, .php
 - [GitHub](https://github.com/ChoiTeaHo/HomesulSSTest)
 - [시연 영상](https://www.youtube.com/watch?v=job04LuYll4)
 
-**OverlapLoopView - 오픈소스 (JMT 프로젝트 진행하며 제작)**
+**Beacon - IOT기기 APP (캡스톤디자인 )**
 - 기간 : 2019. 02. 11 ~ 2019. 02. 22 (총 1개월)
-- 내용 : ItemView를 원하는 방향으로 드래그하여 날리면, 다음 ItemView가 노출되는 Custom View
+- 내용 : Beacon 단말기에 접근시 SSID 거리값에 정도에 따라 이벤트발생, 
 - 역할 : 전체 개발
-- 적용 패턴 : Observer pattern, ViewHolder pattern
-- 적용 기술 : VelocityTracker, ViewPropertyAnimator
+- 적용 패턴 : 
+- 적용 기술 : estimote 
 - [GitHub](https://github.com/ch-Yoon/Overlap_Loop_View)
-
-**영화 검색 앱 (부스트캠프 사전과제)**
-- 기간 : 2018. 11. 30 ~ 2018. 12. 17 (총 18일)
-- 내용 : 네이버 영화 검색 API로부터 특정 키워드와 관련된 영화 정보를 수신하여 리스트 형태로 보여주는 앱
-- 역할 : 프로젝트 전체 개발
-- 적용 패턴 : MVP pattern, Singleton pattern
-- 적용 기술 : Glide, Volley, RecyclerView, Preload
+ 
+**Croll - 웹사이트 크롤링 APP (공모전사이트 크롤링해보기)**
+- 기간 : 2018. 03. 01 ~ 2018. 03. 20 (총 19일)
+- 내용 : 특정공모전 사이트로부터 코드를 얻어와 리스트 형태로 보여주는 앱
+- 역할 : 전체 개발
+- 적용 패턴 : 
+- 적용 기술 : jsoup
 - [GitHub](https://github.com/ch-Yoon/movie_list_toy_project)
 
 **시네마 천국 - 영화 리뷰 앱 (부스트코스 Android 과정 에이스 1기)**
