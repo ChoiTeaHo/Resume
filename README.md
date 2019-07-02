@@ -1,17 +1,16 @@
 # 이력서
 
 ## 소개
+
 ![profile](https://user-images.githubusercontent.com/19817832/60497811-83de9f80-9cf0-11e9-8f1f-58b6df6da9c9.jpg)
 
-<img src="https://user-images.githubusercontent.com/19817832/60497811-83de9f80-9cf0-11e9-8f1f-58b6df6da9c9.jpg width=200px">
 
-
-- 이름 : 윤찬혁    
+- 이름 : 최태호
 - 군필여부 : 병장 만기 재대    
-- Email : chanhyuck1021@naver.com    
-- GitHub : https://github.com/ch-Yoon    
+- Email : layup3@naver.com
+- GitHub : https://github.com/ChoiTeaHo
 ```
-대학 시절, 의사소통 능력 향상을 위해 돌잔치 전문 MC 활동을 했습니다. 
+대학 시절, 의사소통 능력 향상을 위해 학회장 및 각종 교내 프로젝트 팀장 활동을 했습니다. 
 개발자에게 의사소통 능력은 매우 중요하다고 생각합니다.
 ```
 <img src="https://user-images.githubusercontent.com/20294749/54074551-0a511a80-42d7-11e9-83e7-46a86b173210.jpg" width=500>
