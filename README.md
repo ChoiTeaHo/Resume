@@ -70,14 +70,14 @@
 
 
 ## 프로젝트 이력
-**JMT -  위치 기반 메뉴 선택 앱 (부스트캠프 3기 Android 과정)**
-- 기간 : 2019. 01. 21 ~ 2019. 02. 22 (총 1개월)
-- 내용 : 음식점 사장님들이 앱에 메뉴를 등록하면, 손님은 화면을 드래그하며 특정 위치 주변에 등록된 메뉴들 중 원하는 메뉴를 선택하는 앱
-- 역할 : 프로젝트 뼈대 구성, 로그인 및 회원가입 구현, Custom View 구현 및 오픈소스 등록, 메뉴 등록 구현
+**혼술집 -  근접센서기반 건배모션 APP (스터디그룹 및 공모전참가 개발)**
+- 기간 : 2017. 09. 18 ~ 2017. 11. 26  (총 2개월)
+- 내용 : 사용자가 근접센서에 접근시 애니메이션효과로 건배해주는 느낌을 받게하는 앱
+- 역할 : 프로젝트 뼈대 구성, 근접센서및 애니메이션처리 구현, Custom View 구현 및 오픈소스 등록, 메뉴 등록 구현, 다국어지원, 방명록뷰 구현
 - 적용 패턴 : MVP pattern, Observer pattern, Singleton pattern
-- 적용 기술 : DataBinding, Glide, Retrofit2, uCrop, **OverlapLoopView**, RecyclerView
-- [GitHub](https://github.com/boostcampth/boostcamp3_A)
-- [시연 영상](https://www.youtube.com/watch?v=9jkn1Kt4FOQ)
+- 적용 기술 : 웹호스팅 JSON 연결
+- [GitHub](https://github.com/ChoiTeaHo/HomesulSSTest)
+- [시연 영상](https://www.youtube.com/watch?v=job04LuYll4)
 
 **OverlapLoopView - 오픈소스 (JMT 프로젝트 진행하며 제작)**
 - 기간 : 2019. 02. 11 ~ 2019. 02. 22 (총 1개월)
