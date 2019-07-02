@@ -1,6 +1,7 @@
 # 이력서
 
 ## 소개
+<img src="https://drive.google.com/open?id=1HIqfRHrOdTQGBXoBhXehdg3S506ORiWn" width="200px">
 <img src="https://user-images.githubusercontent.com/20294749/54071352-d2ce7800-42ae-11e9-8d11-c5b71cca520f.jpg" width="200px">
 
 - 이름 : 윤찬혁    
