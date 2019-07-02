@@ -118,12 +118,12 @@
 - [시연 영상](https://www.youtube.com/watch?v=-YME1Dlb4iU&t=45s)
 
 
-**시각장애인을 위한 스마트 약통**
-- 기간 : 2017. 12. 01 ~ 2018. 03. 21 (총 4개월)
-- 내용 : 터치센서가 부착된 약통과 안드로이드 앱으로 구성된 시각장애인을 위한 스마트 약통
-- 역할 : 팀장 수행, 안드로이드 명령어 처리 구현, 약품 정보 저장, 검색, 삭제 기능 구현
-- 적용 패턴 : Observer pattern
-- 적용 기술 : SQLite, Google 내장 STT & TTS
+**게시판 구축 - JSP를 이용한 게시판 프로그램**
+- 기간 : 2019. 06. 20 ~ 2019. 06. 27 (총 7일)
+- 내용 : CRUD게시판
+- 역할 : 프로젝트 전체 개발
+- 적용 패턴 : MVC2패턴 커맨드패턴
+- 적용 기술 : DBCP
 - [GitHub](https://github.com/ChoiTeaHo/SocketChat)
 - [시연 영상](https://youtu.be/fYPkvSM8sAY)
 
