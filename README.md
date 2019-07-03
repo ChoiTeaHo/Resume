@@ -105,7 +105,6 @@
 - 적용 패턴 : 
 - 적용 기술 : SQLite
 - [GitHub](https://github.com/ChoiTeaHo/AlarmMom)
-- [시연 영상](https://www.youtube.com/watch?v=rZYCzcN7kNU&t=14s)
 
 
 **채팅프로그램 - TCP/IP 소켓통신을 이용한 간단한 JAVA 프로그램 (개인활동)**
