@@ -75,7 +75,7 @@
 - 내용 : 사용자가 근접센서에 접근시 애니메이션효과로 건배해주는 느낌을 받게하는 앱
 - 역할 : 스터디 그룹 팀장 수행, 프로젝트 뼈대 구성, 근접센서및 애니메이션처리 구현, Custom View 구현 및 오픈소스 등록, 메뉴 등록 구현, 다국어지원, 방명록뷰 구현
 - 적용 패턴 : 
-- 적용 기술 : 웹호스팅 JSON 연결, .php
+- 적용 기술 : 웹호스팅 .php 및 DB연결
 - [GitHub](https://github.com/ChoiTeaHo/HomesulSSTest)
 - [시연 영상](https://www.youtube.com/watch?v=job04LuYll4)
 
@@ -87,7 +87,7 @@
 - 적용 패턴 : 
 - 적용 기술 : estimote 
 - [GitHub](https://github.com/ChoiTeaHo/BeaconluvS)
-
+- [시연 영상](https://www.youtube.com/watch?v=OThtz04BUOI&feature=youtu.be)
 
 **Croll - 웹사이트 크롤링 APP (개인활동)**
 - 기간 : 2018. 03. 01 ~ 2018. 03. 20 (총 19일)
