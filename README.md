@@ -125,12 +125,6 @@
 - [GitHub](https://github.com/ChoiTeaHo/SocketChat)
 
 
-## 교육 이수 내역
-**부스트캠프 Android 과정 3기 : 2019. 01. 21 ~ 2019. 02. 22 (총 1개월)**
-- Android 실무 협업 교육
-- 3인 팀으로 구성되어 프로젝트 진행 및 팀별 멘토 지정
-- 오프라인 미팅, Slack, GitHub 활용 프로젝트 멘토링 진행
-- 개발자 특강 진행
 
 ---
 
