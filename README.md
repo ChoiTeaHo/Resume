@@ -13,7 +13,7 @@
 대학 시절, 의사소통 능력 향상을 위해 학회장 및 각종 교내 프로젝트 팀장 활동을 했습니다. 
 개발자에게 의사소통 능력은 매우 중요하다고 생각합니다.
 ```
-<img src="https://user-images.githubusercontent.com/20294749/54074551-0a511a80-42d7-11e9-83e7-46a86b173210.jpg" width=500>
+![student](https://user-images.githubusercontent.com/19817832/60629303-23567c00-9e30-11e9-924f-cdeb5f2ccb44.jpg)
 
 ## 학력
 - 인천 인하대학교 사범대학 부속고등학교 졸업 : 2009. 03 ~ 2012. 02
