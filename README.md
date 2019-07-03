@@ -114,17 +114,16 @@
 - 적용 패턴 : 
 - 적용 기술 : 
 - [GitHub](https://github.com/ChoiTeaHo/SocketChat)
-- [시연 영상](https://www.youtube.com/watch?v=-YME1Dlb4iU&t=45s)
 
 
-**게시판 구축 - JSP를 이용한 게시판 프로그램**
+**게시판 구축 - JSP를 이용한 간단한 게시판 프로그램**
 - 기간 : 2019. 06. 20 ~ 2019. 06. 27 (총 7일)
 - 내용 : CRUD게시판
 - 역할 : 프로젝트 전체 개발
 - 적용 패턴 : MVC2패턴 커맨드패턴
 - 적용 기술 : DBCP
 - [GitHub](https://github.com/ChoiTeaHo/SocketChat)
-- [시연 영상](https://youtu.be/fYPkvSM8sAY)
+
 
 ## 교육 이수 내역
 **부스트캠프 Android 과정 3기 : 2019. 01. 21 ~ 2019. 02. 22 (총 1개월)**
