@@ -2,7 +2,8 @@
 
 ## 소개
 
-![profile](https://user-images.githubusercontent.com/19817832/60497811-83de9f80-9cf0-11e9-8f1f-58b6df6da9c9.jpg)
+<img src="https://user-images.githubusercontent.com/20294749/54071352-d2ce7800-42ae-11e9-8d11-c5b71cca520f.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/19817832/60752237-feafff00-9ffd-11e9-99da-2a7ddf313348.jpg width="200px">
 
 
 - 이름 : 최태호
