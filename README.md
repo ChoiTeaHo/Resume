@@ -3,7 +3,7 @@
 ## 소개
 
 <img src="https://user-images.githubusercontent.com/20294749/54071352-d2ce7800-42ae-11e9-8d11-c5b71cca520f.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/19817832/60752237-feafff00-9ffd-11e9-99da-2a7ddf313348.jpg width="200px">
+<img src="https://user-images.githubusercontent.com/19817832/60752237-feafff00-9ffd-11e9-99da-2a7ddf313348.jpg" width="200px">
 
 
 - 이름 : 최태호
