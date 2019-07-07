@@ -74,7 +74,6 @@
 - 기간 : 2017. 09. 18 ~ 2017. 11. 26  (총 2개월)
 - 내용 : 사용자가 근접센서에 접근시 애니메이션효과로 건배해주는 느낌을 받게하는 앱
 - 역할 : 스터디 그룹 팀장 수행, 프로젝트 뼈대 구성, 근접센서및 애니메이션처리 구현, Custom View 구현 및 오픈소스 등록, 메뉴 등록 구현, 다국어지원, 방명록뷰 구현, 플레이스토어 등록
-- 적용 패턴 : 
 - 적용 기술 : 웹호스팅 .php 및 DB연결
 - [GitHub](https://github.com/ChoiTeaHo/HomesulSSTest)
 - [시연 영상](https://www.youtube.com/watch?v=job04LuYll4)
@@ -93,7 +92,6 @@
 - 기간 : 2017. 08. 27 ~ 2017. 12. 18 (총 3개월)
 - 내용 : Beacon 단말기에 접근시 SSID 거리값에 정도에 따라 이벤트발생, 
 - 역할 : 스터디 그룹 팀장 수행, 전체개발
-- 적용 패턴 : 
 - 적용 기술 : estimote 
 - [GitHub](https://github.com/ChoiTeaHo/BeaconluvS)
 - [시연 영상](https://www.youtube.com/watch?v=OThtz04BUOI&feature=youtu.be)
@@ -113,7 +111,6 @@
 - 기간 : 2018. 03. 01 ~ 2018. 03. 20 (총 19일)
 - 내용 : 특정공모전 사이트로부터 코드를 얻어와 리스트 형태로 보여주는 앱
 - 역할 : 전체 개발
-- 적용 패턴 : 
 - 적용 기술 : jsoup
 - [GitHub](https://github.com/ChoiTeaHo/CrollTestSS)
 
@@ -130,7 +127,6 @@
 - 기간 : 2018. 07. 01 ~  (미완성)
 - 내용 : 식후 약복용 간단한 30초 타이머 / 복용을 알려주기위해 집 주차장 비콘설치 후 이동 근황 전송 기획.
 - 역할 : 전체 개발
-- 적용 패턴 : 
 - 적용 기술 : SQLite
 - [GitHub](https://github.com/ChoiTeaHo/AlarmMom)
 
@@ -145,8 +141,7 @@
 - 기간 :  2019. 05. 01 ~ 2019. 05. 10 (총 9일)
 - 내용 : 클라이언트와 서버간 소켓통신 ( IO / NIO 각각 구현해보기)
 - 역할 : 전체 개발
-- 적용 패턴 : 
-- 적용 기술 : 
+- 적용 기술 : Socket
 - [GitHub](https://github.com/ChoiTeaHo/SocketChat)
 
 : JAVA의 TCP/IP 소켓통신을 이용한 채팅프로그램입니다.  
@@ -162,7 +157,7 @@ TCP/IP 의 IO 개발 NIO 방식의 개발을 통해 블로킹과 넌블로킹 �
 - 내용 : CRUD게시판
 - 역할 : 전체 개발
 - 적용 패턴 : MVC2패턴 커맨드패턴
-- 적용 기술 : DBCP
+- 적용 기술 : DBCP, Tomcat
 - [GitHub](https://github.com/ChoiTeaHo/SocketChat)
 
 : JSP의 웹컨테이너 톰캣을 이용한 게시판 입니다.  
