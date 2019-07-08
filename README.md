@@ -161,7 +161,7 @@ TCP/IP 의 IO 개발 NIO 방식의 개발을 통해 블로킹과 넌블로킹 �
 - 역할 : 전체 개발
 - 적용 패턴 : MVC2패턴 커맨드패턴
 - 적용 기술 : DBCP, Tomcat
-- [GitHub](https://github.com/ChoiTeaHo/SocketChat)
+- [GitHub](https://github.com/ChoiTeaHo/CRUD_BulletinBoard)
 
 : JSP의 웹컨테이너 톰캣을 이용한 게시판 입니다.  
 개발 중에 부딪힌 점은  
