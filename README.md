@@ -13,7 +13,9 @@
 대학 시절, 의사소통 능력 향상을 위해 학회장 및 각종 교내 프로젝트 팀장 활동을 했습니다. 
 개발자에게 의사소통 능력은 매우 중요하다고 생각합니다.
 ```
-<img src="![student](https://user-images.githubusercontent.com/19817832/60629303-23567c00-9e30-11e9-924f-cdeb5f2ccb44.jpg)">
+
+<img src="https://user-images.githubusercontent.com/19817832/60629303-23567c00-9e30-11e9-924f-cdeb5f2ccb44.jpg" width="200px">
+![student](https://user-images.githubusercontent.com/19817832/60629303-23567c00-9e30-11e9-924f-cdeb5f2ccb44.jpg)
 ![prize](https://user-images.githubusercontent.com/19817832/60796001-a3217500-a1a7-11e9-8e8d-d1ff38eae13d.jpg)
 
 
