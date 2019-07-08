@@ -14,7 +14,7 @@
 개발자에게 의사소통 능력은 매우 중요하다고 생각합니다.
 ```
 
-<img src="https://user-images.githubusercontent.com/19817832/60629303-23567c00-9e30-11e9-924f-cdeb5f2ccb44.jpg" width="430px"><img src="https://user-images.githubusercontent.com/19817832/60796001-a3217500-a1a7-11e9-8e8d-d1ff38eae13d.jpg" width="430px">
+<img src="https://user-images.githubusercontent.com/19817832/60629303-23567c00-9e30-11e9-924f-cdeb5f2ccb44.jpg" width="430px"><img src="https://user-images.githubusercontent.com/19817832/60796001-a3217500-a1a7-11e9-8e8d-d1ff38eae13d.jpg" width="430px" hight="300px">
 
 ![student](https://user-images.githubusercontent.com/19817832/60629303-23567c00-9e30-11e9-924f-cdeb5f2ccb44.jpg)
 ![prize](https://user-images.githubusercontent.com/19817832/60796001-a3217500-a1a7-11e9-8e8d-d1ff38eae13d.jpg)
