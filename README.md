@@ -14,6 +14,8 @@
 개발자에게 의사소통 능력은 매우 중요하다고 생각합니다.
 ```
 ![student](https://user-images.githubusercontent.com/19817832/60629303-23567c00-9e30-11e9-924f-cdeb5f2ccb44.jpg)
+![prize](https://user-images.githubusercontent.com/19817832/60796001-a3217500-a1a7-11e9-8e8d-d1ff38eae13d.jpg)
+
 
 ## 학력
 - 인천 인하대학교 사범대학 부속고등학교 졸업 : 2009. 03 ~ 2012. 02
