@@ -6,7 +6,7 @@
 
 
 - 이름 : 최태호
-- 군필여부 : 병장 만기 재대    
+- 군필여부 : 병장 만기 제대    
 - Email : layup3@naver.com
 - GitHub : https://github.com/ChoiTeaHo
 ```
