@@ -8,7 +8,7 @@
 - 이름 : 최태호
 - 군필여부 : 병장 만기 제대    
 - Email : layup3@naver.com
-- GitHub : https://github.com/ChoiTeaHo
+- GitHub : https://github.com/blangs
 ```
 대학 시절, 의사소통 능력 향상을 위해 학회장 및 각종 교내 프로젝트 팀장 활동을 했습니다. 
 개발자에게 의사소통 능력은 매우 중요하다고 생각합니다.
@@ -78,7 +78,7 @@
 - 내용 : 사용자가 근접센서에 접근시 애니메이션효과로 건배해주는 느낌을 받게하는 앱
 - 역할 : 스터디 그룹 팀장 수행, 프로젝트 뼈대 구성, 근접센서및 애니메이션처리 구현, Custom View 구현 및 오픈소스 등록, 메뉴 등록 구현, 다국어지원, 방명록뷰 구현, 플레이스토어 등록
 - 적용 기술 : 웹호스팅 .php 및 웹호스팅 DB연결
-- [GitHub](https://github.com/ChoiTeaHo/HomesulSSTest)
+- [GitHub](https://github.com/blangs/HomesulSSTest)
 - [시연 영상](https://www.youtube.com/watch?v=job04LuYll4)  
   
   
@@ -87,7 +87,7 @@
 - 내용 : Beacon 단말기에 접근시 SSID 거리값에 정도에 따라 이벤트발생, 
 - 역할 : 스터디 그룹 팀장 수행, 전체개발
 - 적용 기술 : estimote 
-- [GitHub](https://github.com/ChoiTeaHo/BeaconluvS)
+- [GitHub](https://github.com/blangs/BeaconluvS)
 - [시연 영상](https://www.youtube.com/watch?v=OThtz04BUOI&feature=youtu.be)  
   
   
@@ -97,7 +97,7 @@
 - 내용 : 특정공모전 사이트로부터 코드를 얻어와 리스트 형태로 보여주는 앱
 - 역할 : 전체 개발
 - 적용 기술 : jsoup
-- [GitHub](https://github.com/ChoiTeaHo/CrollTestSS)  
+- [GitHub](https://github.com/blangs/CrollTestSS)  
   
   
 **엄마를 위한 알람앱 - 알람앱 APP (개인활동)**
@@ -105,7 +105,7 @@
 - 내용 : 식후 약복용 간단한 30초 타이머 / 복용을 알려주기위해 집 주차장 비콘설치 후 이동 근황 전송 기획.
 - 역할 : 전체 개발
 - 적용 기술 : SQLite
-- [GitHub](https://github.com/ChoiTeaHo/AlarmMom)  
+- [GitHub](https://github.com/blangs/AlarmMom)  
   
   
 **채팅프로그램 - TCP/IP 소켓통신을 이용한 간단한 JAVA 프로그램 (개인활동)**
@@ -113,7 +113,7 @@
 - 내용 : 클라이언트와 서버간 소켓통신 ( IO / NIO 각각 구현해보기)
 - 역할 : 전체 개발
 - 적용 기술 : Socket
-- [GitHub](https://github.com/ChoiTeaHo/SocketChat)  
+- [GitHub](https://github.com/blangs/SocketChat)  
   
   
 **게시판 구축 - JSP를 이용한 간단한 게시판 프로그램 (개인활동)**
@@ -122,7 +122,7 @@
 - 역할 : 전체 개발
 - 적용 패턴 : MVC2패턴 커맨드패턴
 - 적용 기술 : DBCP, Tomcat
-- [GitHub](https://github.com/ChoiTeaHo/CRUD_BulletinBoard)  
+- [GitHub](https://github.com/blangs/CRUD_BulletinBoard)  
   
   
 ---
